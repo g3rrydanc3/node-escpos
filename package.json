@@ -37,8 +37,6 @@
   },
   "optionalDependencies": {
     "usb": "*",
-    "serialport": "*",
-    "node-bluetooth": "*"
   },
   "devDependencies": {
     "mocha": "*"
