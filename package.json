@@ -36,7 +36,7 @@
     "mutable-buffer": "^2.0.3"
   },
   "optionalDependencies": {
-    "usb": "*",
+    "usb": "*"
   },
   "devDependencies": {
     "mocha": "*"
